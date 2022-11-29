@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "jest-localstorage-mock": "^2.2.0",
-    "react-scripts": "1.1.4",
+    "react-scripts": "4.0.0",
     "react-test-renderer": "^16.3.2"
   },
   "scripts": {
